@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate_order">Chokolade</string>
+    <string name="cream_order">Creme</string>
+    <string name="java_order_for">Kendelse om</string>
+    <string name="order_name">Løbenummer</string>
+    <string name="quantity_order">Mængde</string>
+    <string name="thank_you">Takket</string>
+    <string name="toppings">Top</string>
+    <string name="total_price_order">Hele ordrens størrelse</string>
+    <string name="сhoose_email_app">Indtast din e-mail-adresse</string>
+</resources>

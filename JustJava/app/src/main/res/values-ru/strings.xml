@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Просто Java</string>
+    <string name="chocolate_order">Шоколад</string>
+    <string name="cream_order">Сливки</string>
+    <string name="java_order_for">Заказ для</string>
+    <string name="order_name">Наименование заказа</string>
+    <string name="quantity_order">Количество</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="toppings">Топпинг</string>
+    <string name="total_price_order">Полная сумма заказа</string>
+    <string name="сhoose_email_app">Введите свой email адресс</string>
+</resources>
